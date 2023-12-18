@@ -1,2 +1,3 @@
 # my-html-portfolio
-This is a practice exercise from Udemy course.
+https://giwa15.github.io/my-html-portfolio/
+
